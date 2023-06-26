@@ -1,0 +1,321 @@
+@media( max-width: 575.98px){
+
+}
+
+
+@media(min-width:576px) and (max-width: 767.98px){
+
+
+
+
+}
+
+@media(max-width:767.98px){
+
+    .navbar-light .navbar-toggler {
+        color: #ffF !important;
+        border-color:#fff !important;
+    }
+
+    .navbar-toggler:focus{
+
+        box-shadow: none !important;
+    }
+
+    .menu-bg .one {
+        margin-left: 385px;
+    }
+
+    .banner-text{
+        margin-top: -80px;
+    }
+
+    .banner-img{
+
+        margin-top: 70px;
+    }
+
+
+    .work-text{
+        text-align: center;
+    }
+
+    .work-btn{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+
+    .work-item{
+        text-align: center;
+    }
+
+
+    .work-item p {
+        padding: 0 20px;
+    }
+
+
+    .projectes-head a {
+        top: 68px;
+    }
+
+    .projects-img .proj-overlay .overlay-text h5 {
+        font-size: 12px;
+    }
+
+    .projects-img .proj-overlay .overlay-text p {
+
+        font-size: 8px;
+        line-height: 21px;
+    }
+
+    .projects-img{
+        margin-bottom: 30px;
+    }
+
+    .features-item{
+        margin-top: 30px;
+    }
+    .clients-text{
+        margin-top: -172px;
+    }
+
+    .on {
+        bottom: 13%;
+        right: -72%;
+    }
+    .to{
+        bottom: 13%;
+        right: -76%;
+    }
+
+    .send-img {
+        margin-left: 0px;
+    }
+
+    .btn {
+        padding: 10px 141px !important;
+    }
+
+    .send-btn{
+        padding-bottom: 20px;
+    }
+
+    .blog-btn{
+        padding-bottom: 20px;
+    }
+
+    .footer-left{
+        margin-top: -80px;
+    }
+
+    .footer-logo p {
+        padding: 0 212px;
+        margin-left: -207px;
+    }
+
+    .footer-right {
+        margin-top: -312px !important;
+        padding-left: 229px;
+    }
+    
+
+    .footer-right h2 {
+        font-size: 22px;
+    }
+
+    .footer-right p {
+        font-size: 9px;
+        line-height: 11px;
+    }
+
+
+    .footer-right .footer-icon a {
+        margin: 0 4px;
+    }
+
+    .frature-text h4 {
+
+        font-size: 15px;
+
+    }
+
+}
+
+
+@media(min-width:768px) and (max-width: 991.98px){
+
+
+    
+    .navbar-light .navbar-toggler {
+        color: #ffF !important;
+        border-color:#fff !important;
+    }
+
+    .navbar-toggler:focus{
+
+        box-shadow: none !important;
+    }
+
+    .menu-bg .one {
+        margin-left: 385px;
+    }
+
+    .menu-bg .one {
+        margin-left: 563px;
+    }
+
+    
+    .banner-text{
+        margin-top: -80px;
+    }
+
+    .banner-img{
+
+        margin-top: 70px;
+    }
+
+    .work-btn{
+        padding-bottom: 50px;
+    }
+
+    .work-text{
+        margin-top: -100px;
+    }
+
+
+    .projectes-head a {
+        top: 19px;
+        right: 58px;
+    }
+
+    .projects-img{
+        margin-bottom: 30px;
+    }
+
+    .features-head {
+        margin-top: -90px;
+    }
+
+    .qustion-head{
+        margin-bottom: 50px !important;
+    }
+
+    .frature-text h4 {
+        font-weight: 800;
+        font-size: 12px;
+    }
+
+    .clients-text{
+        margin-top: -180px;
+    }
+
+    .send-img {
+
+        margin-left: 0px;
+    }
+
+
+    .send-img h2 {
+        top: 103px;
+    }
+
+    .send-img p {
+        top: 425px;
+    }
+
+    .btn{
+        margin-left: 73px;
+    }
+
+    .send-btn a {
+        margin-left: 195px;
+
+    }
+
+
+    .footer-left{
+        margin-top: -100px;
+    }
+
+    .footer-logo p {
+        padding: 0px 409px;
+        margin-left: -409px;
+    }
+
+
+    .footer-right {
+        margin-top: -314px;
+        margin-left: 327px;
+    }
+  
+
+
+}
+
+
+
+@media(min-width:992px) and (max-width: 1199.98px){
+
+    .projects-img .proj-overlay .overlay-text h5 {
+        font-size: 16px;
+    }
+
+    .projects-img .proj-overlay .overlay-text p {
+        font-size: 11px;
+    }
+
+
+    .features-head h2 {
+        font-size: 46px;
+    }
+
+
+    .frature-text h4 {
+        font-size: 18px;
+    }
+
+
+    .clients-text h2 {
+        font-size: 28px;
+        line-height: 43px;
+    }
+
+
+    .qustion-head h2 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+
+    .send-img {
+        margin-left: -12px;
+    }
+
+
+    .btn {
+        padding: 10px 101px !important;
+    }
+    .send-btn {
+        margin-left: -40px;
+        padding-bottom: 30px;
+    }
+
+
+    .send-img h2 {
+        font-size: 41px;
+        line-height: 54px;
+    }
+
+
+    .send-img p {
+        top: 267px;
+    }
+
+}
+
+
+
+@media(min-width:1200px) and (max-width: 1399.98px){
+
+}

@@ -1,0 +1,64 @@
+#clients{
+    padding: 128px 0;
+    background-color: #eef1fcd7;
+    position: relative;      
+}
+
+
+
+.clients-text{
+    h2{
+        font-family: 'Poppins', sans-serif;
+        color: #000;
+        font-weight: 600;
+        font-size: 38px;
+        line-height: 56px;
+       
+    }
+    p{
+        font-family: 'Poppins', sans-serif;
+        opacity: 0.7;
+    }
+}
+
+
+
+.clients-item{
+    h4{
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 48px;
+    }
+}
+
+
+.clients-img{
+    display: flex;
+    margin-top: 40px;
+}
+
+
+.clients-i-test{
+    margin-left: 20px;
+
+    h5{
+        padding-bottom: 10px;
+    }
+}
+
+.on{
+    position: absolute;
+    content: "";
+    bottom: 22%;
+    right: -85%;   
+}
+
+.to{
+    position: absolute;
+    content: "";
+    bottom: 22%;
+    right: -88%;
+}
+
+
+

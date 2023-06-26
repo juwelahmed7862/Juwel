@@ -1,0 +1,16 @@
+.backto-top{
+    i{
+        position: fixed;
+        bottom: 30px;
+        right: 50px;
+        height: 30px;
+        width: 30px;
+        background-color: #000;
+        border-radius: 50%;
+        color: #fff;
+        text-align: center;
+        line-height: 30px;
+        cursor: pointer;
+        display: none;
+    }
+}
